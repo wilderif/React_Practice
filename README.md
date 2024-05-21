@@ -17,7 +17,7 @@ you can use npm or yarn as shown below:
 
 ```bash
 npm install
-npm start
+npm run dev
 ```
 
 ### yarn
