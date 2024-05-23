@@ -33,13 +33,21 @@ yarn run dev
 
 ### Tic Tac Toe
 
-![Tic-Tac-Toe](./project_overview/Tic_Tac_Toe.png)
+![Tic-Tac-Toe](./project_overview/Tic_Tac_Toe/Tic_Tac_Toe.png)
 
 ### Investment Calculator
 
-![Investment Calculator](./project_overview/Investment_Calculator.png)
+![Investment Calculator](./project_overview/Investment_Calculator/Investment_Calculator.png)
 
 ### Final Countdown
 
-![Final Countdown 1](./project_overview/Final_Countdown_1.png)
-![Final Countdown 2](./project_overview/Final_Countdown_2.png)
+![Final Countdown 1](./project_overview/Final_Countdown/Final_Countdown_1.png)
+![Final Countdown 2](./project_overview/Final_Countdown/Final_Countdown_2.png)
+
+### Project Management
+
+![Project Management 1](./project_overview/Project_Management/Project_Management_1.png)
+![Project Management 2](./project_overview/Project_Management/Project_Management_2.png)
+![Project Management 3](./project_overview/Project_Management/Project_Management_3.png)
+![Project Management 4](./project_overview/Project_Management/Project_Management_4.png)
+![Project Management 5](./project_overview/Project_Management/Project_Management_5.png)
