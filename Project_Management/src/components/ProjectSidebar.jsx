@@ -11,9 +11,23 @@ export default function ProjectSidebar(props) {
       </div>
       <ul className="mt-8">
         {props.projects.map((project) => {
+          let cssClasses =
+            "my-1 w-full rounded-sm px-2 py-1 text-left hover:bg-stone-800 hover:text-stone-200";
+
+          if (project.id === props.selectedProjectId) {
+            cssClasses += " bg-stone-800 text-stone-200";
+          } else {
+            cssClasses += " text-stone-400";
+          }
+
           return (
             <li key={project.id}>
-              <button className="my-1 w-full rounded-sm px-2 py-1 text-left text-stone-400 hover:bg-stone-800 hover:text-stone-200">
+              <button
+                className={cssClasses}
+                onClick={() => {
+                  props.onSelectProject(project.id);
+                }}
+              >
                 {project.title}
               </button>
             </li>
