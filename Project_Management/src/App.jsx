@@ -12,6 +12,8 @@ function App() {
     tasks: [],
   });
 
+  console.log(projectState);
+
   function handleSelectedProject(projectId) {
     setProjectState((prevState) => {
       return {
@@ -62,6 +64,7 @@ function App() {
       });
 
       return {
+        ...prevState,
         projects: updatedProjects,
         selectedProjectId: undefined,
       };
