@@ -51,3 +51,8 @@ yarn run dev
 ![Project Management 3](./project_overview/Project_Management/Project_Management_3.png)
 ![Project Management 4](./project_overview/Project_Management/Project_Management_4.png)
 ![Project Management 5](./project_overview/Project_Management/Project_Management_5.png)
+
+### Elegant Context
+
+![Elegant Context 1](./project_overview/Elegant_Context/Elegant_Context_1.png)
+![Elegant Context 2](./project_overview/Elegant_Context/Elegant_Context_2.png)
