@@ -33,7 +33,13 @@ yarn run dev
 
 ### Tic Tac Toe
 
-<img src="./project_overview/Tic_Tac_Toe/Tic_Tac_Toe.png" alt="Tic-Tac-Toe" width="600" />
+<img src="./project_overview/Tic_Tac_Toe/Tic_Tac_Toe.png" alt="Tic-Tac-Toe" width="full" />
+<img src="./project_overview/Tic_Tac_Toe/Tic_Tac_Toe.png" alt="Tic-Tac-Toe" style="width: 100%;" />
+<details>
+  <summary>Show Image</summary>
+  <img src="./project_overview/Tic_Tac_Toe/Tic_Tac_Toe.png" alt="Tic-Tac-Toe" style="max-width: 100%;" />
+</details>
+
 <details>
   <summary>Show Image</summary>
   <img src="./project_overview/Tic_Tac_Toe/Tic_Tac_Toe.png" alt="Tic-Tac-Toe" width="600" />
