@@ -1,5 +1,7 @@
 # React Practice
 
+---
+
 ## Learning Resource
 
 [React - The Complete Guide 2024 (incl. React Router & Redux)]
