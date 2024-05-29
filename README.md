@@ -56,3 +56,9 @@ yarn run dev
 
 ![Elegant Context 1](./project_overview/Elegant_Context/Elegant_Context_1.png)
 ![Elegant Context 2](./project_overview/Elegant_Context/Elegant_Context_2.png)
+
+### Place Picker
+
+![Place Picker 1](./project_overview/Place_Picker/Place_Picker_1.png)
+![Place Picker 2](./project_overview/Place_Picker/Place_Picker_2.png)
+![Place Picker 3](./project_overview/Place_Picker/Place_Picker_3.png)
