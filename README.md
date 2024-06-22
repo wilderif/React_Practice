@@ -97,8 +97,8 @@ yarn run dev
 
 <details>
   <summary>Behind the Scenes</summary>
-  <img src="./project_overview/Behind_the_Scenes/Behind_the_Scenes_1.png" alt="Place Picker 1" width="800" />
-  <img src="./project_overview/Behind_the_Scenes/Behind_the_Scenes_2.png" alt="Place Picker 2" width="800" />
-  <img src="./project_overview/Behind_the_Scenes/Behind_the_Scenes_3.png" alt="Place Picker 3" width="800" />
-  <img src="./project_overview/Behind_the_Scenes/Behind_the_Scenes_4.png" alt="Place Picker 4" width="800" />
+  <img src="./project_overview/Behind_the_Scenes/Behind_the_Scenes_1.png" alt="Behind the Scenes 1" width="800" />
+  <img src="./project_overview/Behind_the_Scenes/Behind_the_Scenes_2.png" alt="Behind the Scenes 2" width="800" />
+  <img src="./project_overview/Behind_the_Scenes/Behind_the_Scenes_3.png" alt="Behind the Scenes 3" width="800" />
+  <img src="./project_overview/Behind_the_Scenes/Behind_the_Scenes_4.png" alt="Behind the Scenes 4" width="800" />
 </details>
