@@ -13,11 +13,13 @@ function App() {
   function handleSetCount(newCount) {
     setChosenCount(newCount);
   }
+
   return (
     <>
       <Header />
       <ConfigureCounter onSet={handleSetCount} />
       <main>
+        <Counter key={chosenCount} initialCount={chosenCount} />
         <Counter initialCount={chosenCount} />
       </main>
     </>
