@@ -92,3 +92,13 @@ yarn run dev
   <img src="./project_overview/React_Quiz/React_Quiz_5.png" alt="React Quiz 5" width="800" />
   <img src="./project_overview/React_Quiz/React_Quiz_6.png" alt="React Quiz 6" width="800" />
 </details>
+
+### Behind the Scenes
+
+<details>
+  <summary>Behind the Scenes</summary>
+  <img src="./project_overview/Behind_the_Scenes/Behind_the_Scenes_1.png" alt="Place Picker 1" width="800" />
+  <img src="./project_overview/Behind_the_Scenes/Behind_the_Scenes_2.png" alt="Place Picker 2" width="800" />
+  <img src="./project_overview/Behind_the_Scenes/Behind_the_Scenes_3.png" alt="Place Picker 3" width="800" />
+  <img src="./project_overview/Behind_the_Scenes/Behind_the_Scenes_4.png" alt="Place Picker 4" width="800" />
+</details>
