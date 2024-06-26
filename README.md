@@ -102,3 +102,14 @@ yarn run dev
   <img src="./project_overview/Behind_the_Scenes/Behind_the_Scenes_3.png" alt="Behind the Scenes 3" width="800" />
   <img src="./project_overview/Behind_the_Scenes/Behind_the_Scenes_4.png" alt="Behind the Scenes 4" width="800" />
 </details>
+
+### Place Picker 2
+
+<details>
+  <summary>View Place Picker</summary>
+  <img src="./project_overview/Place_Picker_2/Place_Picker_2_1.png" alt="Place Picker 2 1" width="800" />
+  <img src="./project_overview/Place_Picker_2/Place_Picker_2_2.png" alt="Place Picker 2 2" width="800" />
+  <img src="./project_overview/Place_Picker_2/Place_Picker_2_3.png" alt="Place Picker 2 3" width="800" />
+  <img src="./project_overview/Place_Picker_2/Place_Picker_2_4.png" alt="Place Picker 2 4" width="800" />
+  <img src="./project_overview/Place_Picker_2/Place_Picker_2_5.png" alt="Place Picker 2 5" width="800" />
+</details>
