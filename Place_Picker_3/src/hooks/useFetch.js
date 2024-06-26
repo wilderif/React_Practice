@@ -25,5 +25,6 @@ export const useFetch = (fetchFn, initialValue) => {
     isFetching,
     error,
     fetchedData,
+    setFetchedData,
   };
 };
