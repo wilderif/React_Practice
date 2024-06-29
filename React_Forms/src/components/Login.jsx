@@ -9,6 +9,8 @@ export default function Login() {
 
     const enteredEmail = emailRef.current.value;
     const enteredPassword = passwordRef.current.value;
+
+    console.log(enteredEmail, enteredPassword);
   };
 
   return (
