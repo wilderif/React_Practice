@@ -106,7 +106,7 @@ yarn run dev
 ### Place Picker 2
 
 <details>
-  <summary>View Place Picker</summary>
+  <summary>View Place Picker 2</summary>
   <img src="./project_overview/Place_Picker_2/Place_Picker_2_1.png" alt="Place Picker 2 1" width="800" />
   <img src="./project_overview/Place_Picker_2/Place_Picker_2_2.png" alt="Place Picker 2 2" width="800" />
   <img src="./project_overview/Place_Picker_2/Place_Picker_2_3.png" alt="Place Picker 2 3" width="800" />
