@@ -117,7 +117,7 @@ yarn run dev
 ### React Froms
 
 <details>
-  <summary>View Behind the Scenes</summary>
+  <summary>View React Froms</summary>
   <img src="./project_overview/React_Forms/React_Forms_1.png" alt="React Forms 1" width="800" />
   <img src="./project_overview/React_Forms/React_Forms_2.png" alt="React Forms 2" width="800" />
   <img src="./project_overview/React_Forms/React_Forms_3.png" alt="React Forms 3" width="800" />
