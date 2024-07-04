@@ -139,7 +139,7 @@ yarn run dev
 ### Redux Practice 2
 
 <details>
-  <summary>Redux Practice 2</summary>
+  <summary>View Redux Practice 2</summary>
   <img src="./project_overview/Redux_Practice_2/Redux_Practice_2_1.png" alt="Redux Practice 2 1" width="800" />
   <img src="./project_overview/Redux_Practice_2/Redux_Practice_2_2.png" alt="Redux Practice 2 2" width="800" />
   <img src="./project_overview/Redux_Practice_2/Redux_Practice_2_3.png" alt="Redux Practice 2 3" width="800" />
