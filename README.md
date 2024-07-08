@@ -144,3 +144,13 @@ yarn run dev
   <img src="./project_overview/Redux_Practice_2/Redux_Practice_2_2.png" alt="Redux Practice 2 2" width="800" />
   <img src="./project_overview/Redux_Practice_2/Redux_Practice_2_3.png" alt="Redux Practice 2 3" width="800" />
 </details>
+
+### Redux Practice 3
+
+<details>
+  <summary>View Redux Practice 3</summary>
+  <img src="./project_overview/Redux_Practice_3/Redux_Practice_3_1.png" alt="Redux Practice 3 1" width="800" />
+  <img src="./project_overview/Redux_Practice_3/Redux_Practice_3_2.png" alt="Redux Practice 3 2" width="800" />
+  <img src="./project_overview/Redux_Practice_3/Redux_Practice_3_3.png" alt="Redux Practice 3 3" width="800" />
+  <img src="./project_overview/Redux_Practice_3/Redux_Practice_3_4.png" alt="Redux Practice 3 4" width="800" />
+</details>
