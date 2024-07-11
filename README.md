@@ -180,3 +180,19 @@ yarn run dev
   <img src="./project_overview/React_Router_2/React_Router_2_9.png" alt="React Router 2 9" width="800" />
   <img src="./project_overview/React_Router_2/React_Router_2_10.png" alt="React Router 2 10" width="800" />
 </details>
+
+### Authentication
+
+<details>
+  <summary>View Authentication</summary>
+  <img src="./project_overview/Authentication/Authentication_1.png" alt="Authentication 1" width="800" />
+  <img src="./project_overview/Authentication/Authentication_2.png" alt="Authentication 2" width="800" />
+  <img src="./project_overview/Authentication/Authentication_3.png" alt="Authentication 3" width="800" />
+  <img src="./project_overview/Authentication/Authentication_4.png" alt="Authentication 4" width="800" />
+  <img src="./project_overview/Authentication/Authentication_5.png" alt="Authentication 5" width="800" />
+  <img src="./project_overview/Authentication/Authentication_6.png" alt="Authentication 6" width="800" />
+  <img src="./project_overview/Authentication/Authentication_7.png" alt="Authentication 7" width="800" />
+  <img src="./project_overview/Authentication/Authentication_8.png" alt="Authentication 8" width="800" />
+  <img src="./project_overview/Authentication/Authentication_9.png" alt="Authentication 9" width="800" />
+  <img src="./project_overview/Authentication/Authentication_10.png" alt="Authentication 10" width="800" />
+</details>
