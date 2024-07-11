@@ -7,7 +7,6 @@ import {
 } from "react-router-dom";
 
 import classes from "./AuthForm.module.css";
-import { useLayoutEffect } from "react";
 
 function AuthForm() {
   const data = useActionData();
