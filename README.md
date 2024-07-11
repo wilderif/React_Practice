@@ -164,3 +164,19 @@ yarn run dev
   <img src="./project_overview/React_Router/React_Router_3.png" alt="React Router 3" width="800" />
   <img src="./project_overview/React_Router/React_Router_4.png" alt="React Router 4" width="800" />
 </details>
+
+### React Router 2
+
+<details>
+  <summary>View React Router 2</summary>
+  <img src="./project_overview/React_Router_2/React_Router_2_1.png" alt="React Router 2 1" width="800" />
+  <img src="./project_overview/React_Router_2/React_Router_2_2.png" alt="React Router 2 2" width="800" />
+  <img src="./project_overview/React_Router_2/React_Router_2_3.png" alt="React Router 2 3" width="800" />
+  <img src="./project_overview/React_Router_2/React_Router_2_4.png" alt="React Router 2 4" width="800" />
+  <img src="./project_overview/React_Router_2/React_Router_2_5.png" alt="React Router 2 5" width="800" />
+  <img src="./project_overview/React_Router_2/React_Router_2_6.png" alt="React Router 2 6" width="800" />
+  <img src="./project_overview/React_Router_2/React_Router_2_7.png" alt="React Router 2 7" width="800" />
+  <img src="./project_overview/React_Router_2/React_Router_2_8.png" alt="React Router 2 8" width="800" />
+  <img src="./project_overview/React_Router_2/React_Router_2_9.png" alt="React Router 2 9" width="800" />
+  <img src="./project_overview/React_Router_2/React_Router_2_10.png" alt="React Router 2 10" width="800" />
+</details>
