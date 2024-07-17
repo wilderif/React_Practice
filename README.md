@@ -196,3 +196,18 @@ yarn run dev
   <img src="./project_overview/Authentication/Authentication_9.png" alt="Authentication 9" width="800" />
   <img src="./project_overview/Authentication/Authentication_10.png" alt="Authentication 10" width="800" />
 </details>
+
+### React Query
+
+<details>
+  <summary>View React Query</summary>
+  <img src="./project_overview/React_Query/React_Query_1.png" alt="React Query 1" width="800" />
+  <img src="./project_overview/React_Query/React_Query_2.png" alt="React Query 2" width="800" />
+  <img src="./project_overview/React_Query/React_Query_3.png" alt="React Query 3" width="800" />
+  <img src="./project_overview/React_Query/React_Query_4.png" alt="React Query 4" width="800" />
+  <img src="./project_overview/React_Query/React_Query_5.png" alt="React Query 5" width="800" />
+  <img src="./project_overview/React_Query/React_Query_6.png" alt="React Query 6" width="800" />
+  <img src="./project_overview/React_Query/React_Query_7.png" alt="React Query 7" width="800" />
+  <img src="./project_overview/React_Query/React_Query_8.png" alt="React Query 8" width="800" />
+  <img src="./project_overview/React_Query/React_Query_9.png" alt="React Query 9" width="800" />
+</details>
